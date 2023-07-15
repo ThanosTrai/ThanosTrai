@@ -2,8 +2,8 @@
 
 I'm Thanos!
  
-- 🌱 I am a student currently enrolled in full-stack bootcamp where I am gaining hands-on experience in Java, HTML, CSS, Javascript and SQL.
-- ⚡ Enthusiastic about learning new technology.
+- 🌱 I'm a student currently enrolled in full-stack bootcamp where I'm studying Java, HTML, CSS, Javascript and SQL.
+- ⚡ Enthusiastic about learning new technology and developing programming and problem solving skills.
 - 📫 How to reach me: thatrai@hotmail.com
 
 Languages and Tools:
