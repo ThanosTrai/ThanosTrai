@@ -8,6 +8,8 @@ I'm Thanos!
 
 Languages and Tools:
 <p align="center"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+ 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+          
 </p>
           
