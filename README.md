@@ -8,7 +8,7 @@ I'm Thanos!
 
 Languages and Tools:
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 30px; width: 30px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="height: 50px; width: 50px;"/>
                   
 </p>
           
