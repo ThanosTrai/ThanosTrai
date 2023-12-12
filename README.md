@@ -2,7 +2,7 @@
 
 ## Junior Software Developer | Tech Enthusiast | Lifelong Learner
 
-Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stack Software Development Bootcamp, where I've honed my skills in Java, C#, JavaScript, and Python, among other cutting-edge technologies.
+Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stack Software Development Bootcamp, where I've honed my skills with "hands on" projects in Java, C#, JavaScript, Python, among other cutting-edge technologies.
  
 ### What I Bring to the Table
 
@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stac
 
 ### My Recent Achievements
 
-- **Full Stack Development**: Completed a rigorous bootcamp that included both individual and collaborative projects, covering everything from databases to user authentication and API integration.
+- **Full Stack Development**: Graduated from an intensive bootcamp that included both individual and collaborative projects, covering everything from databases to user authentication and API integration.
 
-- **Capstone Project**: Successfully built a [Book Library Full-Stack Application](link-to-your-project) with Java Spring Boot and Angular, featuring JWT authentication and integration with external APIs.
+- **Capstone Project**: Successfully built a [Book Library Full-Stack Application](https://github.com/ThanosTrai/booklibapp-project-springboot) with Java Spring Boot and Angular, featuring JWT authentication and integration with external APIs.
 
 ### On the Horizon
 
@@ -28,7 +28,7 @@ Feel free to check out my repositories below and don't hesitate to reach out if 
 
 📫 **How to Reach Me**: 
 
-- Email: [your-email]
-- LinkedIn: [your-linkedin-profile]
+- Email: [thatrai@hotmail.com]
+- LinkedIn: [https://www.linkedin.com/in/thanos-traitsis/]
 
 Let's build something amazing together.
