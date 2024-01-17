@@ -30,5 +30,3 @@ Feel free to check out my repositories below and don't hesitate to reach out if 
 
 - Email: [thatrai@hotmail.com]
 - LinkedIn: [https://www.linkedin.com/in/thanos-traitsis/]
-
-Let's build something amazing together.
