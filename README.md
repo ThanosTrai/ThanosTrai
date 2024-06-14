@@ -2,7 +2,7 @@
 
 ## Junior Software Developer | Tech Enthusiast | Lifelong Learner
 
-Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stack Software Development Bootcamp, where I've honed my skills with "hands on" projects in Java, C#, JavaScript, Python, among other cutting-edge technologies.
+Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stack Software Development Bootcamp, where I've honed my skills with "hands on" projects in Java, C#, JavaScript, Angular among other cutting-edge technologies.
  
 ### What I Bring to the Table
 
