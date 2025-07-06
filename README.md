@@ -1,16 +1,16 @@
 # Hello, I'm Thanos 👋
 
-## Junior Software Developer | Tech Enthusiast | Lifelong Learner
+## Junior Software Developer
 
 Welcome to my GitHub profile! I'm a recent graduate of a comprehensive Full Stack Software Development Bootcamp, where I've honed my skills with "hands on" projects in Java, C#, JavaScript, Angular among other cutting-edge technologies.
  
 ### What I Bring to the Table
 
-🌱 **Ever-Growing Skill Set**: From robust backend solutions with Java Spring Boot to dynamic front-end interfaces with Angular, I've cultivated a diverse technical toolkit that I'm eager to apply and expand.
+ **Ever-Growing Skill Set**: From robust backend solutions with Java Spring Boot to dynamic front-end interfaces with Angular, I've cultivated a diverse technical toolkit that I'm eager to apply and expand.
 
-🔍 **Passion for Problem-Solving**: I have a natural inclination towards solving complex problems. I believe every issue is an opportunity to learn and improve.
+**Passion for Problem-Solving**: I have a natural inclination towards solving complex problems. I believe every issue is an opportunity to learn and improve.
 
-🚀 **Ready for Challenges**: Thriving in challenge-driven environments, I am always on the lookout for opportunities to push the boundaries of what I can achieve with code.
+**Ready for Challenges**: Thriving in challenge-driven environments, I am always on the lookout for opportunities to push the boundaries of what I can achieve with code.
 
 ### My Recent Achievements
 
@@ -26,7 +26,7 @@ Feel free to check out my repositories below and don't hesitate to reach out if 
 
 ---
 
-📫 **How to Reach Me**: 
+**How to Reach Me**: 
 
 - Email: [thatrai@hotmail.com]
 - LinkedIn: [https://www.linkedin.com/in/thanos-traitsis/]
